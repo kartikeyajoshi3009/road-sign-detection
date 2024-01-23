@@ -51,6 +51,8 @@ This repository contains the code and resources for a Traffic Sign Recognition p
 
 Feel free to explore, contribute, and provide feedback!
 
-**Author:** Your Name
+**Author:** Kartikeya Joshi 
 
-**Contact:** your.email@example.com
+**Github:** kartikeyajoshi3009
+
+**Contact:** kartikeyajoshi3009@gmail.com
